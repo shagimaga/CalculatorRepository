@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="result">#D0BCFF</color>
+    <color name="error">#F2B8B5</color>
+    <color name="header">#E6E1E5</color>
+    <color name="divider">#49454F</color>
+    <color name="dark_button_text">#E8DEF8</color>
+    <color name="light_button_text">#FFD8E4</color>
+    <color name="canvas">#1C1B1F</color>
+
 </resources>
